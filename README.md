@@ -1,3 +1,2 @@
 ## Retrofit Project
-
 ![](Retrofit.gif)
